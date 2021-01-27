@@ -1,0 +1,6 @@
+BUY = "buy"
+SELL = "sell"
+ORDERS = "orders"
+LIMIT = "limit"
+BUY_ORDER_ID = "buy_order_id"
+SELL_ORDER_ID = "sell_order_id"
